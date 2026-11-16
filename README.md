@@ -1,7 +1,7 @@
 Prerelease Version
 ____________________________
 # Downloads
-dowmload at release
+download at release
 ____________________________
 # Updates
 no updates yet
